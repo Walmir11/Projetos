@@ -1,63 +1,4 @@
-Introdução
-
-
-Você já brincou com peças de Lego? Em Java, a Programação Orientada a Objetos (POO) funciona de maneira 
-semelhante. Usamos POO para dividir o código em pequenas partes chamadas objetos, que são como essas peças
-de Lego. Cada objeto tem suas próprias características e funções, o que torna o código mais fácil de entender
-e reutilizar. Neste artigo, vamos explorar os conceitos fundamentais de POO em Java, incluindo classes,
-atributos, métodos, herança e modularização. Vamos aprender como esses conceitos se unem para criar programas 
-bem organizados e eficientes.
-
-
-O que são os fundamentos de POO em Java
-
-
-POO significa Programação Orientada a Objetos. Em Java, usamos POO para organizar o código em pequenas partes
- chamadas "objetos". Esses objetos são como peças de Lego, cada um com suas próprias funções e dados. Eles 
- ajudam a deixar o código mais fácil de entender e de reutilizar.
-
-
-
-Como funcionam as estruturas de POO em Java
-
-
-Em Java, temos três principais estruturas: classes, objetos e métodos. Uma **classe** é como um molde ou planta,
-descrevendo como os objetos serão. Um **objeto** é uma instância dessa classe, como um carro específico feito a
-partir do molde. Os **métodos** são as ações que esses objetos podem realizar, como "dirigir" ou "parar".
-
-
-
-Classe
-
-
-Uma classe em Java é como uma planta de uma casa. Ela define como os objetos dessa classe serão. Por exemplo,
-uma classe Carro dirá que todo carro tem uma cor, um modelo e um ano de fabricação. Também define o que os 
-carros podem fazer, como dirigir e parar.
-
-
-
-Atributos
-
-
-Os atributos são as características dos objetos. Em nossa classe Carro, os atributos podem incluir "cor",
- "modelo" e "ano". Eles guardam informações sobre cada carro específico. Por exemplo, um carro pode ser 
- vermelho, modelo SUV, e do ano 2020.
-
-
-
-Métodos
-
-
-Os métodos são as ações que os objetos podem realizar. Eles são como os verbos que descrevem o que o objeto 
-pode fazer. No caso do nosso carro, o método "dirigir" faz o carro "andar", e o método "parar" faz o carro 
-parar.
-
-
-
-
-
-
-Exemplo de código
+//Exemplo de código
 
 
 // Classe Carro
@@ -89,20 +30,7 @@ public class Main {
   }
 }
 
-Herança
-
-
-Herança é um conceito onde uma classe pode "herdar" as características de outra. Por exemplo, se temos uma classe 
-Veiculo, podemos criar uma classe Carro que herda de Veiculo. Isso significa que Carro terá todas as característi
-cas e comportamentos de Veiculo, além dos seus próprios.
-
-
-
-
-
-
-
-Exemplo de herança
+//Exemplo de herança
 
 
 // Classe Veiculo
@@ -136,15 +64,7 @@ public class Main {
   }
 }
 
-
-Interface
-
-
-Uma interface em Java é como um contrato que uma classe pode assinar. Esse contrato diz que a classe deve implementar todos os métodos que a interface define. Interfaces permitem que classes diferentes sejam usadas de maneira intercambiável se implementarem a mesma interface. Isso é útil para garantir que diferentes classes sigam a mesma estrutura básica de comportamento.
-
-
-
-Exemplo de interface
+//Exemplo de interface
 
 
 // Interface Animal
@@ -177,14 +97,7 @@ public class Main {
   }
 }
 
-Modularização
-
-
-Modularização é o processo de dividir um programa grande em partes menores e mais manejáveis chamadas módulos. Cada módulo tem uma responsabilidade específica, tornando o código mais organizado e fácil de entender. Em Java, podemos criar módulos usando classes e pacotes, que permitem agrupar classes relacionadas.
-
-
-
-Exemplo de modularização
+//Exemplo de modularização
 
 
 // Pacote de veículos
@@ -216,14 +129,7 @@ public class Main {
   }
 }
 
-
-Polimorfismo
-
-
-Polimorfismo é um conceito que permite que objetos de diferentes classes sejam tratados como objetos da mesma classe através de uma interface comum. Isso significa que uma única função pode funcionar de diferentes maneiras dependendo do objeto que a chama. É como ter uma única chave que pode abrir várias portas.
-
-
-Exemplo de polimorfismo
+//Exemplo de polimorfismo
 
 
 // Interface Veiculo
@@ -256,15 +162,3 @@ public class Main {
   }
 }
 
-
-Conclusão
-
-
-Gostou de aprender sobre POO em Java? Esse conteúdo foi gerado por inteligência artificial, mas foi revisado por alguém 100%, se quiser saber mais sobre mim, me siga no Linkedin
-
-
-
-Hashtags
-
-
-#ProgramaçãoJava #AprendizadoPOO #DicasDeCódigo

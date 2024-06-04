@@ -1,7 +1,12 @@
 Introdução
 
 
-Você já brincou com peças de Lego? Em Java, a Programação Orientada a Objetos (POO) funciona de maneira semelhante. Usamos POO para dividir o código em pequenas partes chamadas objetos, que são como essas peças de Lego. Cada objeto tem suas próprias características e funções, o que torna o código mais fácil de entender e reutilizar. Neste artigo, vamos explorar os conceitos fundamentais de POO em Java, incluindo classes, atributos, métodos, herança e modularização. Vamos aprender como esses conceitos se unem para criar programas bem organizados e eficientes.
+Você já brincou com peças de Lego? Em Java, a Programação Orientada a Objetos (POO) funciona de maneira 
+semelhante. Usamos POO para dividir o código em pequenas partes chamadas objetos, que são como essas peças
+de Lego. Cada objeto tem suas próprias características e funções, o que torna o código mais fácil de entender
+e reutilizar. Neste artigo, vamos explorar os conceitos fundamentais de POO em Java, incluindo classes,
+atributos, métodos, herança e modularização. Vamos aprender como esses conceitos se unem para criar programas 
+bem organizados e eficientes.
 
 
 
